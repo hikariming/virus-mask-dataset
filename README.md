@@ -10,8 +10,8 @@
 
 **下载地址：**
 （由于人还在机场，预计在2020-01-24 10:00之前传好第一批数据）
-1、百度网盘: TBD
-2、Google drive: TBD
+- 1、百度网盘: TBD
+- 2、Google drive: https://drive.google.com/drive/folders/1ByRDDh7ynQucA_06cbGF2jbuc-NHvUYQ?usp=sharing
 
 ## 一、当前数据集
 
