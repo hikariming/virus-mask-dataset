@@ -14,7 +14,7 @@ now we has labeled 3500+ pics,you can download mask dataset in Google drive: htt
 
 **下载地址：**
 （由于人还在机场，预计在2020-01-24 10:00之前传好第一批数据）
-- 1、百度网盘: TBD
+- 1、百度网盘: 链接:https://pan.baidu.com/s/1axAF7xY_6lkjZFvoOmFfnA  密码:tjbh
 - 2、Google drive: https://drive.google.com/drive/folders/1ByRDDh7ynQucA_06cbGF2jbuc-NHvUYQ?usp=sharing
 
 ## 一、当前数据集
